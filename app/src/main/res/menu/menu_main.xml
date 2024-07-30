@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/action_java1"
+        android:title="Java" />
+    <item
+        android:id="@+id/action_cpp"
+        android:title="C++" />
+    <item
+        android:id="@+id/action_csharp"
+        android:title="C#" />
+</menu>
